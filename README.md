@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋  Hello my name is `ibnu` 👋
+# 👋  Hello 👋 
+
+My name is `ibnu`
 
 I am studying in brawijaya university, im taking management major, class of 2024
